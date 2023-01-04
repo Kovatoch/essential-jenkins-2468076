@@ -8,7 +8,7 @@ They also want to display the status of that most recent test directly in the re
 
 ## Tasks
 - [ ] Create a new GitHub repo and add the exercise files for this lesson.
-  - [ ] [Jenkinsfile](./Jenkinsfile)
+  - [ ] [Jenkinsfile](./Jenkinsfile) -Done
   - [ ] [algorithm.sh](./algorithm.sh)
 - [ ] Create a new pipeline project that pulls the code from the repo and uses the Jenkinsfile for the project definition.
 - [ ] Install the Embeddable status plug-in and update the GitHub repo to show the status of the project.
